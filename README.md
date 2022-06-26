@@ -9,7 +9,7 @@
 
 <br>
 
-✔️ Use the console right in the game ✔️
+- ✔️ Use the console right in the game ✔️
 <img src="https://github.com/NoobMCBG/ConsoleCommandSender/blob/main/icon.png"/>
   
 <br>
