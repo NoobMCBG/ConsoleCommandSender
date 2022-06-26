@@ -4,12 +4,12 @@ declare(strict_types=1);
 
 namespace NoobMCBG\ConsoleCommandSender;
 
-use pocketmine\plugin\Pluginbase;
+use pocketmine\plugin\PluginBase;
 use pocketmine\console\ConsoleCommandSender;
 use NoobMCBG\ConsoleCommandSender\commands\Commands;
 use NoobMCBG\ConsoleCommandSender\task\CheckUpdateTask;
 
-class Loader extends Pluginbase {
+class Loader extends PluginBase {
 
 	public static $instance;
 
