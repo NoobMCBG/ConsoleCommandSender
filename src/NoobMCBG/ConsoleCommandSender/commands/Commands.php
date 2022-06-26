@@ -32,7 +32,7 @@ class Commands extends Command implements PluginOwned {
 			$sender->sendMessage("§cUsage:§7 /consolecommandsender <command>");
 			return true;
 		}
-		array_shift($args):
+		array_shift($args);
 		$this->getOwningPlugin()->consoleCommandSender(implode(" ", $args));
 		$sender->sendMessage("§aSuccessfully run command§d /".implode(" ", $args));
 	}
