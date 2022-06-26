@@ -8,10 +8,13 @@
 | **Total Download** | **<a href="https://poggit.pmmp.io/p/ConsoleCommandSender"><img src="https://poggit.pmmp.io/shield.dl.total/ConsoleCommandSender"></a>** |
 
 <br>
-
->- Use the console right in the game ✔️
+<div align="center">
+</div>
+<p align="center">
+✔️ Use the console right in the game ✔️
 <img src="https://github.com/NoobMCBG/ConsoleCommandSender/blob/main/icon.png"/>
-
+</p>
+  
 <br>
 
 ## Features
